@@ -1,6 +1,5 @@
 .khan__book-pic {
-    background-image: url(../../../images/khan-book.jpg);
-    background-size: cover; /*Нужно добавить свойство background-size: cover, чтобы изображение соответствовало макет*/
+   object-fit: cover;
     width: 620px;
     height: 608px;
     margin: 68px 48px 0 0;
